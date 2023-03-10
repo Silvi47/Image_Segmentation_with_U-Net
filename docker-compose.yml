@@ -1,5 +1,5 @@
 services:
   webapp:
-    image: nucleiSegmentation:latest
+    image: nuclei-segmentation:latest
     ports:
       - "80:80"
